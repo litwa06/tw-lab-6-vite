@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/zapytaniasieciowe/', 
+  base: '/tw-lab-6-vite/', 
 })
